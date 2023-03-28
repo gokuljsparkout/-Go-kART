@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/-Go-kART/static/css/main.c171abd1.css",
+    "main.js": "/-Go-kART/static/js/main.b230cdc6.js",
+    "static/media/about.png": "/-Go-kART/static/media/about.921cab383b2ea9776781.png",
+    "static/media/bg.jpg": "/-Go-kART/static/media/bg.21d8697cd6b1f0c0c61d.jpg",
+    "index.html": "/-Go-kART/index.html",
+    "main.c171abd1.css.map": "/-Go-kART/static/css/main.c171abd1.css.map",
+    "main.b230cdc6.js.map": "/-Go-kART/static/js/main.b230cdc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c171abd1.css",
+    "static/js/main.b230cdc6.js"
+  ]
+}
